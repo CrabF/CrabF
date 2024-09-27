@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p>
-  <img src="https://www.codewars.com/users/CrabF/badges/small" />
+  <img src="https://www.codewars.com/users/CrabF/badges/large" />
 </p>
 
 🔭 I’m currently working on codewars to get kyu higher. Im started on from 7kyu on last week August 2024. My purpouse - about 5-4kyu to October this year.
