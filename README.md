@@ -5,6 +5,10 @@
 </p>
 
 🔭 I’m currently working on codewars to get kyu higher. Im started on from 7kyu on last week August 2024. My purpouse - about 5-4kyu to October this year.
+
+I’m working on <a href='https://github.com/azawert/modji-frontend'> pet project</a> - CRM for hotels for pets. So as i’m not merged in main while, here you can see <a href='https://github.com/azawert/modji-frontend/tree/feat/card_for_pet'>my branch</a>. In project i learned new stack: React-hook-form, Tailwind, MUI, Vite.
+
+I keep learning
 <!--
 
 Here are some ideas to get you started:
