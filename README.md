@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Привет! 👋 Я — начинающий фронтенд-разработчик.
+## Привет! 👋 Я — фронтенд-разработчик.
 
 [![Codewars Badge](https://www.codewars.com/users/CrabF/badges/large)](https://www.codewars.com/users/CrabF)
 
