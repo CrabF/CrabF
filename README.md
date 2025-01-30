@@ -27,9 +27,6 @@ Here are some ideas to get you started:
 
 [![Codewars Badge](https://www.codewars.com/users/CrabF/badges/large)](https://www.codewars.com/users/CrabF)
 
-Моя предыдущая цель — достичь **4kyu** на **Codewars** к октябрю 2024 года была выполнена.
- 
-Текущая цель - получение более глубоких знаний в алгоритмах.
 <div>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrabF&layout=compact&theme=outrun&langs_count=10" />
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=CrabF&count_private=true&include_all_commits=true&theme=outrun" />
